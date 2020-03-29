@@ -9,4 +9,6 @@ If you want to rename the patched Paint, you must make a copy of `mspaint.exe.mu
 
 The Vista version of MS Paint is abandonware and can be found at [The Internet Archive](https://archive.org/details/MSPaintWinVista).
 
+Paintcher is CC-BY rari_teh. It uses [Hexciting](https://sourceforge.net/projects/hexciting/), a command-line hex editor by samoz3.
+
 For more info, refer to the readme included in the releases.
